@@ -19,7 +19,7 @@ PostgreSQL: This open-source database management system is renowned for its adva
 
 Ethical Considerations in Data Scraping
 
-The project adheres to a stringent ethical framework in its data scraping activities. Compliance with YouTube's terms, securing necessary authorizations, and following data protection laws are cornerstones of our ethical approach. The project team is committed to responsible data handling, ensuring privacy and confidentiality, and preventing any misuse or misrepresentation of data. Recognizing the potential impact on YouTube's platform and community, the project aims for a fair and sustainable data scraping process.
+The project adheres to a stringent ethical framework in its data scraping activities. Compliance with YouTube's terms, securing necessary authorizations, and following data protection laws are cornerstones of our ethical approach. The project team is committed to responsible data handling, ensuring privacy and confidentiality, and preventing any misuse or misrepresentation of data. Recognizing the pdotential impact on YouTube's platform and community, the project aims for a fair and sustainable data scraping process.
 
 Key Libraries Employed
 
